@@ -1,1 +1,0 @@
-(event.code : "3" or event.code : "22") and process.name : "rundll32.exe"
